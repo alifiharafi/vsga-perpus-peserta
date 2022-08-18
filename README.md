@@ -26,8 +26,8 @@ Proses pengerjaan proyek ini dibagi menjadi [Proyek 4](#proyek-4), [Proyek 5](#p
 - Lakukan include `layout/footer.php` pada file `index.php`
 
 ## Task #6
-- Buatlah file 404.php dengan copy source code dari beranda.php
-	- Pada bagian `div.page-title`, ubah menjadi: "`&lt;h3&gt;Error 404&lt;/h3&gt;`"
+- Buatlah file `404.php` dengan copy source code dari beranda.php
+	- Pada bagian `div.page-title`, ubah menjadi: `<h3>Error 404</h3>`
 	- Pada bagian `div.page-content`, ubah menjadi:
 - "Halaman Tidak Ditemukan!" dengan Tag Heading Lv4
 - "Ups! Halaman yang Anda cari tidak ditemukan. Silahkan gunakan menu navigasi disamping kiri." dengan Tag Paragraph
@@ -73,7 +73,7 @@ Proses pengerjaan proyek ini dibagi menjadi [Proyek 4](#proyek-4), [Proyek 5](#p
 - Tambahkan data minimal 2 data
 
 ## Task #13
-- Tambahkan folder "helpers" dengan tingkat hirarki "L1"
+- Tambahkan folder `helpers` dengan tingkat hirarki "L1"
 - Buat file `helper_umum.php`
 - Buat fungsi dengan nama `_d()` disertai 1 parameter/ argumen `$str`
 - Source code pada fungsi tersebut berisikan:
@@ -138,7 +138,7 @@ Tuliskan code JS pada file `app.js`
 ## Task #20
 - Buatkan file terpisah untuk `layout/container.php`
 - Sehingga pada file `index.php` hanya melakukan include `layout/container.php`
-- File `layout/cointainer.php` berisikan source code untuk memproses request `$_GET['p']` yang telah ada pada file `index.php`
+- File `layout/container.php` berisikan source code untuk memproses request `$_GET['p']` yang telah ada pada file `index.php`
 
 # Proyek 6
 
@@ -152,5 +152,5 @@ Tuliskan code JS pada file `app.js`
 ## Ketentuan Pengumpulan
 Bagi peserta VSGA JWD 2022, silahkan kumpulkan seluruh proyek pada LMS Kominfo dan harus membaca ketentuan dan instruksi yang diberikan pada Assignment Proyek masing-masing.
 
-## Pembelajar
-Sumber kode ini terbuka tidak terbatas hanya untuk peserta VSGA JWD 2022, namun bagi siapapun yang ingin belajar pemograman web menggunakan bahasa pemograman PHP.
+## Pembelajar Selain Peserta Pelatihan
+Sumber kode ini terbuka, tidak terbatas hanya untuk peserta VSGA JWD 2022, namun bagi siapapun yang ingin belajar pemograman web menggunakan bahasa pemograman PHP.
