@@ -26,7 +26,7 @@ Proses pengerjaan proyek ini dibagi menjadi [Proyek 4](#proyek-4), [Proyek 5](#p
 - Lakukan include `layout/footer.php` pada file `index.php`
 
 ## Task #6
-- Buatlah file `404.php` dengan copy source code dari beranda.php
+- Buatlah file `404.php` dengan copy source code dari `beranda.php`
 	- Pada bagian `div.page-title`, ubah menjadi: `<h3>Error 404</h3>`
 	- Pada bagian `div.page-content`, ubah menjadi:
 - "Halaman Tidak Ditemukan!" dengan Tag Heading Lv4
