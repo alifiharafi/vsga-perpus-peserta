@@ -25,7 +25,7 @@ Sistem Informasi Perpustakaan VSGA JWD 2022
 
 ## Task #6
 - Buatlah file 404.php dengan copy source code dari beranda.php
-	- Pada bagian div.page-title, ubah menjadi: "&gt;h3&lt;Error 404&gt;/h3&lt;"
+	- Pada bagian div.page-title, ubah menjadi: "&lt;h3&gt;Error 404&lt;/h3&gt;"
 	- Pada bagian div.page-content, ubah menjadi:
 - "Halaman Tidak Ditemukan!" dengan Tag Heading Lv4
 - "Ups! Halaman yang Anda cari tidak ditemukan. Silahkan gunakan menu navigasi disamping kiri." dengan Tag Paragraph
