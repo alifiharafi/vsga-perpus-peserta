@@ -1,5 +1,5 @@
 # Proyek Akhir VSGA JWD 2022
-Proyek ini merupakan proyek akhir yang dikerjakan oleh peserta VSGA JWD 2022. **Proyek Sistem Informasi Perpustakaan** yang disediakan pada repositori ini, 50% sumber kode telah disediakan oleh instruktur, sehingga peserta pelatihan dapat melengkapi sumber kode sampai dengan 100% dengan melihat sebagian contoh sumber kode yang telah disediakan tersebut.
+**Proyek Sistem Informasi Perpustakaan** merupakan proyek akhir yang dikerjakan oleh peserta VSGA JWD 2022. Proyek yang disediakan pada repositori ini, 50% sumber kode telah disediakan oleh instruktur, sehingga peserta pelatihan dapat melengkapi sumber kode sampai dengan 100% dengan melihat sebagian contoh sumber kode yang telah disediakan tersebut.
 
 Proses pengerjaan proyek ini dibagi menjadi [Proyek 4](#proyek-4), [Proyek 5](#proyek-5) dan [Proyek 6](#proyek-6), yang akan dijelaskan lebih detil di bawah. Setiap proyek terdiri dari beberapa task.
 
