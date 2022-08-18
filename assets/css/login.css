@@ -1,0 +1,101 @@
+* {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	height: 85vh;
+    background-image: url(../img/bg-polban-pasca-1280.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 420px;
+}
+
+#form-area {
+	padding: 15px;
+	margin-top: 75px;
+	border: 3px solid #CCC;
+	border-radius: 15px;
+	box-shadow: 1px 1px 3px #333;
+	background-color: #f9f9f9;
+}
+
+header {
+	width: 390px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+header h1 {
+	font-size: 24px;
+	margin-bottom: 10px;
+	color: #5C3701;
+}
+
+header h3 {
+	color: #B12621;
+}
+
+#container {
+	width: 390px;
+}
+
+label {
+	display: inline-block;
+	margin-top: 15px;	
+}
+
+input[type="text"], input[type="password"] {
+	display: inline-block;
+	padding: 10px 10px 10px;
+	width: 370px;
+	background-color: #efefef;
+	border: none;
+	border-bottom: 3px solid #5C3701;
+	font-size: 16px;
+}
+
+input[type="text"]:focus, input[type="password"]:focus {
+	background-color: #ffeaad;
+}
+
+input[type="submit"] {
+	display: inline-block;
+	margin-top: 15px;
+	padding: 10px 10px 10px;
+	width: 390px;
+	background-color: #5C3701;
+	color: #fff;
+	border-radius: 5px;
+	font-size: 16px;
+	border: 1px solid #5C3701;
+}
+
+input[type="submit"]:hover {
+	cursor: pointer;
+	background-color: #C94929;
+	border: 1px solid #5C3701;
+}
+
+.error-msg {
+	display: none;
+	padding: 15px;
+	background-color: #ffc0b2;
+	border: 1px solid red;
+	text-align: center;
+}
+
+footer {
+	margin-top: 15px;
+	width: 390px;
+	text-align: center;
+}
+
+footer p {
+	font-size: 12px;
+}

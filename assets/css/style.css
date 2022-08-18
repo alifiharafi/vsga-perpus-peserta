@@ -1,0 +1,270 @@
+* {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Grid Reference: https://getbootstrap.com/docs/5.0/layout/grid/ */
+#wrapper {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+header {
+	float: left;
+	width: inherit;
+}
+
+#header-banner {
+	float: left;
+	width: 1110px;
+	padding: 15px;
+	height: 85px;
+	background-color: #efefef;
+	border-bottom: 3px solid #ccc;
+}
+
+#header-banner h1 {
+	color: #5C3701;
+}
+
+#header-banner p {
+	line-height: 24px;
+}
+
+#user-info {
+	float: left;
+	width: 1110px;
+	padding: 15px;
+	background-color: #5C3701;
+}
+
+#user-info p {
+	color: #fff;
+	font-weight: bold;
+}
+
+sidebar {
+	float: left;
+	width: 250px;
+	/*min-height: 600px;*/
+	background-color: #efefef;
+}
+
+nav ul {
+	list-style: none;
+	padding: 0;
+}
+
+nav ul li.section-menu {
+	padding: 10px 15px 10px;
+	background-color: #5C3701;
+	color: #fff;
+	font-weight: bold;
+}
+
+nav ul li a {
+	display: block;
+	padding: 10px 15px 10px;
+	background-color: #EFEFEF;
+	color: #000;
+	text-decoration: none;
+}
+
+nav ul li a:hover, nav ul li a.active {
+	background-color: #ddb885;
+}
+
+nav ul span {
+	display: block;
+	border-bottom: 3px solid #ccc;
+}
+
+#container {
+	float: left;
+	padding: 10px 15px 10px;
+	width: 860px;
+	/*min-height: 600px;*/
+}
+
+.page-title {
+	float: left;
+	margin-bottom: 7.5px;
+	padding-bottom: 7.5px;
+	width: 860px;
+	border-bottom: 2px solid #CCC;
+}
+
+.page-content {
+	float: left;
+	width: 860px;
+	margin-top: 15px;
+}
+
+.page-content h4 {
+	font-size: 32px;
+	line-height: 48px;
+}
+
+.page-content p.quote {
+	font-style: italic;
+	font-size: 32px;
+	line-height: 48px;
+	color: #c94900;
+}
+
+.form-table tr td:first-child {
+	min-width: 175px;
+}
+
+.form-table tr {
+	line-height: 24px;
+}
+
+.table-upper {
+	float: left;
+	margin-bottom: 15px;
+}
+
+.table-upper-left, .table-upper-right {
+	float: left;
+	width: 430px;
+}
+
+.table-lower {
+	float: left;
+	margin-top: 15px;
+}
+
+.table-lower-left, .table-lower-right {
+	float: left;
+	width: 430px;
+}
+
+ul.table-pagination {
+	list-style: none;
+}
+
+ul.table-pagination li {
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+
+ul.table-pagination li a {
+	display: inline-block;
+	padding: 7.5px 12.5px 7.5px;
+	color: #000;
+	text-decoration: none;
+	background-color: #ccc;
+	border-radius: 5px;
+}
+
+ul.table-pagination li a:hover {
+	background-color: #E0A800;
+	color: #fff;
+}
+
+ul.table-pagination li a.active {
+	background-color: #8c5100;
+	color: #fff;
+}
+
+.data-table {
+	margin: 0 auto;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.data-table, .data-table th, .data-table td {
+	padding: 5px;
+	border: 1px solid #CCC;
+}
+
+.data-table tr {
+	font-size: 14px;
+}
+
+.data-table tr th {
+	background-color: #5C3701;
+	color: #fff;
+}
+
+footer {
+	float: left;
+	width: 1110px;
+	padding: 15px;
+	background-color: #5C3701;
+}
+
+footer p {
+	color: #fff;
+	line-height: 24px;
+}
+
+/*** Common Class ***/
+
+a[class^="btn-"] {
+	display: inline-block;
+	padding: 5px;
+	text-decoration: none;
+	border-radius: 3px;
+}
+
+.btn-medium {
+	padding: 7.5px 10px 7.5px !important;
+}
+
+.btn-primary {
+	background-color: #0069D9;
+	color: #fff;
+}
+
+.btn-success {
+	background-color: #218838;
+	color: #fff;
+}
+
+.btn-danger {
+	background-color: #C82333;
+	color: #fff;
+}
+
+.btn-warning {
+	background-color: #E0A800;
+	color: #fff;
+}
+
+.btn-info {
+	background-color: #138496;
+	color: #fff;
+}
+
+.btn-print {
+	margin: auto auto -17.5px;
+}
+
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+
+.mg-top-5 {
+	margin-top: 5px;
+}
+
+.mg-top-10 {
+	margin-top: 10px;
+}
+
+.mg-top-15 {
+	margin-top: 15px;
+}
+
+.mg-btm-5 {
+	margin-bottom: 5px;
+}
