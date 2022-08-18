@@ -140,14 +140,20 @@ Tuliskan code JS pada file `app.js`
 - Sehingga pada file `index.php` hanya melakukan include `layout/container.php`
 - File `layout/container.php` berisikan source code untuk memproses request `$_GET['p']` yang telah ada pada file `index.php`
 
+## Task #21
+- Pada bagian `layout/footer.php` menampilkan tahun 2021. Gunakan function native pada PHP sehingga tahun yang ditampilkan menjadi dinamis dengan nilai tahun aktual saat ini.
+
 # Proyek 6
 
-## Task #21
+## Task #22
 - Deploy seluruh hasil pekerjaan Anda baik Aplikasi dan Basis Data di hosting!
 - Silahkan gunakan hosting gratis seperti [000webhost](https://www.000webhost.com/), [InfinityFree](https://www.infinityfree.net/) atau hosting lainnya yang mendukung PHP dan basis data MySQL, serta **harus bisa diakses melalui domain/sub-domain/IP Public**
 - Diperbolehkan menggunakan hosting pribadi jika memiliki, namun lebih direkomendasikan menggunakan hosting gratis.
 
 # Catatan
+
+## Referensi
+[https://vsga-jwd-req-perpus](https://vsga-jwd-req-perpus)
 
 ## Ketentuan Pengumpulan
 Bagi peserta VSGA JWD 2022, silahkan kumpulkan seluruh proyek pada LMS Kominfo dan harus membaca ketentuan dan instruksi yang diberikan pada Assignment Proyek masing-masing.
