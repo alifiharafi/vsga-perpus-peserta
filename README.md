@@ -153,7 +153,7 @@ Tuliskan code JS pada file `app.js`
 # Catatan
 
 ## Referensi
-Requirement Proyek Sistem Informasi Perpustakaan ini dapat dilihat pada tautan: [https://vsga-jwd-req-perpus](https://vsga-jwd-req-perpus)
+Requirement Proyek Sistem Informasi Perpustakaan ini dapat dilihat pada tautan: [https://bit.ly/vsga-jwd-req-perpus](https://bit.ly/vsga-jwd-req-perpus)
 
 ## Ketentuan Pengumpulan
 Bagi peserta VSGA JWD 2022, silahkan kumpulkan seluruh proyek pada LMS Kominfo dan harus membaca ketentuan dan instruksi yang diberikan pada Assignment Proyek masing-masing.
