@@ -3,12 +3,12 @@
 
 Proses pengerjaan proyek ini dibagi menjadi [Proyek 4](#proyek-4), [Proyek 5](#proyek-5) dan [Proyek 6](#proyek-6), yang akan dijelaskan lebih detil di bawah. Setiap proyek terdiri dari beberapa task.
 
-# Prasyarat
+## Prasyarat
 - PHP minimal versi 7.2.x
-- Apache/NginX
-- MySQL/MariaDB 
+- Web Server: Apache/NginX
+- DBMS: MySQL/MariaDB 
 
-# Akun
+## Akun
 - Username:
 `admin`
 - Password: 
