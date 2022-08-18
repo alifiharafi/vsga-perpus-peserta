@@ -68,12 +68,12 @@ Proses pengerjaan proyek ini dibagi menjadi [Proyek 4](#proyek-4), [Proyek 5](#p
 ## Task #12
 - C (Create) Peminjaman (dari table Transaksi)
 - Buatlah form tambah peminjaman
-- Form yang dibuat hanya menampilkan buku-buku yang statusnya "Tersedia"
-- Pastikan status buku yang dipinjam berubah ("Tersedia" -> "Dipinjam")
+- Form yang dibuat hanya menampilkan buku-buku yang statusnya `Tersedia`
+- Pastikan status buku yang dipinjam berubah (`Tersedia` -> `Dipinjam`)
 - Tambahkan data minimal 2 data
 
 ## Task #13
-- Tambahkan folder `helpers` dengan tingkat hirarki "L1"
+- Tambahkan folder `helpers` dengan tingkat hirarki `L1`
 - Buat file `helper_umum.php`
 - Buat fungsi dengan nama `_d()` disertai 1 parameter/ argumen `$str`
 - Source code pada fungsi tersebut berisikan:
@@ -126,8 +126,8 @@ Tuliskan code JS pada file `app.js`
 - Tambahkan menu cetak data pengembalian
 - Rule:
 	- Pengembalian tidak dapat diubah, hanya dapat dihapus
-	- Jika pengembalian dihapus atau batal, maka transaksi `tanggal_kembali` menjadi `0000-00-00` dan "status" pada buku menjadi "Dipinjam"
-	- Proses penghapusan atau pembatalan pengembalian harus memeriksa kondisi bahwa buku yang dipinjam tidak tidak dalam status "Tersedia"
+	- Jika pengembalian dihapus atau batal, maka transaksi `tanggal_kembali` menjadi `0000-00-00` dan `status` pada buku menjadi `Dipinjam`
+	- Proses penghapusan atau pembatalan pengembalian harus memeriksa kondisi bahwa buku yang dipinjam tidak tidak dalam status `Tersedia`
 - Referensi: Flowchart Pengembalian
 
 ## Task #19
