@@ -114,10 +114,10 @@ Proses pengerjaan proyek ini dibagi menjadi [Proyek 4](#proyek-4), [Proyek 5](#p
 - Dengan begitu cukup melakukan satu kali include `koneksi-db.php`
 
 ## Task #16
-Tambahkan class `.active` untuk setiap menu yang dipilih/aktif pada menu sidebar
-Perhatikan pada file `style.css` terdapat class `nav ul li a.active` yang sudah didefinisikan
-Gunakan JS untuk memeriksa halaman yang sedang aktif dan gunakan `class .active` pada menu
-Tuliskan code JS pada file `app.js`
+- Tambahkan class `.active` untuk setiap menu yang dipilih/aktif pada menu sidebar
+- Perhatikan pada file `style.css` terdapat class `nav ul li a.active` yang sudah didefinisikan
+- Gunakan JS untuk memeriksa halaman yang sedang aktif dan gunakan `class .active` pada menu
+- Tuliskan code JS pada file `app.js`
 
 ## Task #17
 - CRUD Peminjaman
