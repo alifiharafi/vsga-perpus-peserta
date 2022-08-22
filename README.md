@@ -143,7 +143,7 @@ Tuliskan code JS pada file `app.js`
 
 ## Task #19
 - Buatlah procedure `pagination()` pada file `helper_umum.php`
-- Terdapat 2 parameter untuk procedure tersebut, yaitu: `$row`, `$menu`
+- Terdapat 4 parameter untuk procedure tersebut, yaitu: `$row`, `$menu`, `$menu`, `$limit`
 - Gunakan procedure tersebut pada setiap halaman yang menampilkan data dalam bentuk tabel, yaitu anggota, kategori, penulis, penerbit, buku, peminjaman & pengembalian.
 
 ## Task #20
